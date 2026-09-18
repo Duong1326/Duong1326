@@ -26,6 +26,6 @@ I enjoy building APIs, realtime services, and backend systems, with a growing in
 
 ### Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=js,typescript,java,nodejs,react,mysql,mongodb,docker,git,github,vscode" /> 
-</p> 
+</p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,25,30&height=100&section=footer" width="100%" alt="Footer Banner" />
