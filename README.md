@@ -1,4 +1,4 @@
-<<h1 align="center">Phan Van Duong</h1>
+<h1 align="center">Phan Van Duong</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">Building backend systems and realtime applications.</p> 
 <p align="center"> 📍 Ho Chi Minh, Vietnam &nbsp;·&nbsp; 🎓 Ton Duc Thang University (2024–present) </p>
